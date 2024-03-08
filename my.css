@@ -1,0 +1,24 @@
+.bodyt {
+    text-align: center;
+    align-items: center;
+}
+
+.container{
+    position: absolute;
+    text-align: center;
+    left: 25%;
+    top: 25%;
+    height: 300px;
+    width: 50%;
+    background: gray;
+}
+.clickcontainer{
+    background-color: #00a0f6;
+    color: white;
+    width: 50%;
+    height: 100px;
+    position: absolute;
+    text-align: center;
+    left: 25%;
+    top: 30%;
+}
